@@ -214,6 +214,29 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# IDE files
+.idea/
+.vscode/
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.exe
+*.out
+
+# Compiled project binaries
+integration
+main
+process_mapping
+
+# Generated network-monitor data
+network_log.jsonl
+network_log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
 __marimo__/
 
 # Streamlit
