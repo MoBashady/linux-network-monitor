@@ -1,0 +1,2 @@
+[Fri May  8 10:53:33 2026] Source IP: 23.48.214.139 | Destination IP: 172.19.129.233 | Protocol: TCP | Source Port: 443 | Destination Port: 49846 | Packet Size: 2946
+[Fri May  8 11:09:28 2026] Source IP: 127.0.0.1 | Destination IP: 127.0.0.1 | Protocol: TCP | Source Port: 33604 | Destination Port: 34617 | Packet Size: 139 | PID: 47993 | User: mizore
